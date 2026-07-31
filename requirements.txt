@@ -1,0 +1,11 @@
+streamlit>=1.28.0
+ultralytics>=8.0.0
+torch
+torchvision
+opencv-python-headless
+numpy>=1.24.0
+pandas
+plotly
+pillow
+reportlab
+PySide6>=6.5.0
